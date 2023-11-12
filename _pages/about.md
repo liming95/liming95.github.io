@@ -30,7 +30,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I have worked in the Cloud-native fundamental software group at YUSUR Technology. I received my Master's degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of Professor <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Guihai Yan</a>. My dissertation focused on the architecture design and optimization of Service Mesh based on Data Processing Units (DPUs). Prior on that, I obtained my Bachelor's degree from the School of Software Engineering at Tianjin University. My research interest includes cloud computing systems and hardware-software co-design of computer architecture.<a href="../publication/cv.pdf">[CV]</a>
+I have worked in the cloud-native fundamental software group at YUSUR Technology. I received my Master's degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of Professor <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Guihai Yan</a>. My dissertation focused on the architecture design and optimization of Service Mesh based on Data Processing Units (DPUs). Prior on that, I obtained my Bachelor's degree from the School of Software Engineering at Tianjin University. My research interest includes cloud computing systems and hardware-software co-design of computer architecture.<a href="../publication/cv.pdf">[CV]</a>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -88,3 +88,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<hr>
+<a href="https://info.flagcounter.com/9e1G"><img src="https://s11.flagcounter.com/count2/9e1G/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
