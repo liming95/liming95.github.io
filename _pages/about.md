@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 </ul>
 
 # Patent
-- *2024* A method, apparatus, and device for resource scheduling. 一种资源调度方法、装置及设备
+- *2024* A method, apparatus, and device for resource scheduling. <a href="../publication/patent-2022106929552.pdf"> 一种资源调度方法、装置及设备. </a>
 
 # Honors and Awards
 - *2022* Outstanding Scholarship of Institute of Computing Technology
@@ -62,12 +62,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.09 - 2023.06*, Master - Institute of Computing Technology, Chinese Academy of Sciences
 - *2015.09 - 2017.09*, Compulsory military service
 - *2014.09 - 2020.06*, Bachelor - School of Software Engineering, Tianjin University
-
-
-
-
-
-
 
 <!-- # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
