@@ -41,19 +41,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 -->
-# Educations and Experience
-- *2023.07 - now*, Software Engineer - Cloud-native Fundamental Software Group, YUSUR Technology
-- *2020.09 - 2023.06*, Master - Institute of Computing Technology, Chinese Academy of Sciences
-- *2015.09 - 2017.09*, Compulsory military service
-- *2014.09 - 2020.06*, Bachelor - School of Software Engineering, Tianjin University
-
-# Honors and Awards
-- *2022* Outstanding Scholarship of Institute of Computing Technology
-- *2021* The Second Prize Winner in Customized Computing Challenge, hosted by CCF, AMD-Xilinx and PeKing University
-
-# Patent
-- *2024* A method, apparatus, and device for resource scheduling. 一种资源调度方法、装置及设备
-
 # Publications
 <ul>
 <li><div class="pubtitle"> arXiv 2024 </div> &nbsp; <a href="../publication/flatproxy.pdf">FlatProxy: A DPU-centric Service Mesh Architecture for Hyperscale Cloud-native Application. </a> <span class="font-bold"> Ming Li </span> Wenyan Lu, Hanyue Lin, Jinya Wu, Guihai Yan. IEEE Transactions on Computers (Under Review). </li>
@@ -62,6 +49,22 @@ My research interest includes neural machine translation and computer vision. I 
 <li><div class="pubtitle"> White paper 2022</div> &nbsp; <a href="../publication/dpu_benchmark.pdf">DPU Benchmark Methodology and Implementation. 专用数据处理器（DPU）性能基准评测方法与实现.</a> Guihai Yan, Wenyan Lu, Jinya Wu, Hao Kong, Weiyue Zhao, Haishuang Fan, Yunkun Liao, Yujun Zhang, <span class="font-bold">Ming Li</span>, Hanyue LinLiyun Cheng, Shuai Gu, Mingliang Huang, et al. Institute of Computing Technology, Chinese Academy of Sciences. 2022.</li>
 <li><div class="pubtitle"> White paper 2021</div> &nbsp; <a href="../publication/dpu_technology.pdf">The technical White Paper of Data Processing Unit. 专用数据处理器（DPU）技术白皮书.</a> Guihai Yan, Wenyan Lu, Jinya Wu, Hao Kong, Weiyue Zhao, Haishuang Fan, Yunkun Liao, Yujun Zhang, <span class="font-bold">Ming Li</span>, Yan Chen, Yu Zhang, Xiaofei Yuan, Huimin Cui. Institute of Computing Technology, Chinese Academy of Sciences. 2021.</li>
 </ul>
+
+# Patent
+- *2024* A method, apparatus, and device for resource scheduling. 一种资源调度方法、装置及设备
+
+# Honors and Awards
+- *2022* Outstanding Scholarship of Institute of Computing Technology
+- *2021* The Second Prize Winner in Customized Computing Challenge, hosted by CCF, AMD-Xilinx and PeKing University
+
+# Educations and Experience
+- *2023.07 - now*, Software Engineer - Cloud-native Fundamental Software Group, YUSUR Technology
+- *2020.09 - 2023.06*, Master - Institute of Computing Technology, Chinese Academy of Sciences
+- *2015.09 - 2017.09*, Compulsory military service
+- *2014.09 - 2020.06*, Bachelor - School of Software Engineering, Tianjin University
+
+
+
 
 
 
