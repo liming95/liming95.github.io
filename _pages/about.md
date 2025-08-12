@@ -50,12 +50,16 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 # Publications
 <ul>
-<li><div class="pubtitle"> TC </div> &nbsp; <a href="../publication/flatproxy.pdf">FlatProxy: A DPU-centric Service Mesh Architecture for Hyperscale Cloud-native Application. </a> <span class="font-bold"> Ming Li </span> Wenyan Lu, Hanyue Lin, Jinya Wu, Guihai Yan. IEEE Transactions on Computers (Under Review). </li>
+<li><div class="pubtitle"> arXiv 2024 </div> &nbsp; <a href="../publication/flatproxy.pdf">FlatProxy: A DPU-centric Service Mesh Architecture for Hyperscale Cloud-native Application. </a> <span class="font-bold"> Ming Li </span> Wenyan Lu, Hanyue Lin, Jinya Wu, Guihai Yan. IEEE Transactions on Computers (Under Review). </li>
 <li><div class="pubtitle"> ICPP 2023 </div> &nbsp; <a href="../publication/bitcolor.pdf">BitColor: Accelerating Large-Scale Graph Coloring on FPGA with Parallel Bit-Wise Engines.</a> Haishuang Fan, <span class="font-bold">Ming Li</span>, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. Proceedings of the 52nd International Conference on Parallel Processing. </li>
 <li> <div class="pubtitle"> Master Thesis 2023 </div> &nbsp; <a href="../publication/master_thesis.pdf">The Architecture Design and Optimization of Service Mesh Based on DPU. 基于DPU的服务网格架构设计与优化.</a></li>
 <li><div class="pubtitle"> White paper 2022</div> &nbsp; <a href="../publication/dpu_benchmark.pdf">DPU Benchmark Methodology and Implementation. 专用数据处理器（DPU）性能基准评测方法与实现.</a> Guihai Yan, Wenyan Lu, Jinya Wu, Hao Kong, Weiyue Zhao, Haishuang Fan, Yunkun Liao, Yujun Zhang, <span class="font-bold">Ming Li</span>, Hanyue LinLiyun Cheng, Shuai Gu, Mingliang Huang, et al. Institute of Computing Technology, Chinese Academy of Sciences. 2022.</li>
 <li><div class="pubtitle"> White paper 2021</div> &nbsp; <a href="../publication/dpu_technology.pdf">The technical White Paper of Data Processing Unit. 专用数据处理器（DPU）技术白皮书.</a> Guihai Yan, Wenyan Lu, Jinya Wu, Hao Kong, Weiyue Zhao, Haishuang Fan, Yunkun Liao, Yujun Zhang, <span class="font-bold">Ming Li</span>, Yan Chen, Yu Zhang, Xiaofei Yuan, Huimin Cui. Institute of Computing Technology, Chinese Academy of Sciences. 2021.</li>
 </ul>
+
+# Patent
+- *2024* A method, apparatus, and device for resource scheduling. <a href="../publication/patent-2022106929552.pdf"> 一种资源调度方法、装置及设备. </a>
+
 # Honors and Awards
 - *2022* Outstanding Scholarship of Institute of Computing Technology
 - *2021* The Second Prize Winner in Customized Computing Challenge, hosted by CCF, AMD-Xilinx and PeKing University
