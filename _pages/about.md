@@ -30,7 +30,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I have worked in the cloud-native fundamental software group at YUSUR Technology. I received my Master's degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of Professor <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Guihai Yan</a>. My dissertation focused on the architecture design and optimization of Service Mesh based on Data Processing Units (DPUs). Prior on that, I obtained my Bachelor's degree from the School of Software Engineering at Tianjin University. My research interest includes cloud computing systems and hardware-software co-design of computer architecture.<a href="../publication/cv.pdf">[CV]</a>
+I am an incoming PhD student at Stevens Institute of Technology, advised by <a href="https://www.liuhongyuan.com/">Hongyuan Liu</a>. My current research focuses on GPU-accelerated regular expression matching engines.
+
+I received my Master’s degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Professor Guihai Yan</a>. During this period, my work centered on DPU-enabled service mesh design and optimization.
+
+Prior to that, I obtained my Bachelor’s degree from the School of Software Engineering at Tianjin University.
+
+My research interests include parallel computing, GPU architecture, and hardware–software co-design in computer architecture.
+<a href="../publication/cv.pdf">[CV]</a>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -54,7 +61,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021* The Second Prize Winner in Customized Computing Challenge, hosted by CCF, AMD-Xilinx and PeKing University
 
 # Educations and Experience
-- *2023.07 - now*, Software Engineer - Cloud-native Fundamental Software Group, YUSUR Technology
+- *2025.03 - now*, Incoming PHD Student - Department of Computer Science, Stevens Institute of Technology
+- *2023.07 - 2024.06*, Software Engineer - Cloud-native Fundamental Software Group, YUSUR Technology
 - *2020.09 - 2023.06*, Master - Institute of Computing Technology, Chinese Academy of Sciences
 - *2015.09 - 2017.09*, Compulsory military service
 - *2014.09 - 2020.06*, Bachelor - School of Software Engineering, Tianjin University
