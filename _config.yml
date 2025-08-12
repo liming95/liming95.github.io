@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ming Li"
-description              : "Institute of Computing Technology, Chinese Academy of Sciences"
+description              : "Interested GPU-accelerated computing, parrallel computing, and high performance computing."
 repository               : "liming95/liming95.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ming Li"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "SKL_Carch (State Key Laboratory of Computer Architecture)"
+  bio              : "Incoming PHD student at Stevens Institute of Technology."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "liming20@mails.ucas.ac.cn"
+  email            : "liming950814@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
