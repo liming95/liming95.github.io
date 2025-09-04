@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ming Li"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Incoming PHD student at Stevens Institute of Technology."
+  bio              : #"Incoming PHD student at Stevens Institute of Technology."
   location         : "Beijing, China"
   employer         :
   pubmed           : 

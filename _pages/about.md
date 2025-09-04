@@ -30,7 +30,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am an incoming PhD student at Stevens Institute of Technology, advised by <a href="https://www.liuhongyuan.com/">Hongyuan Liu</a>. My current research focuses on GPU-accelerated regular expression matching engines.
+<!-- I am an incoming PhD student at Stevens Institute of Technology, advised by <a href="https://www.liuhongyuan.com/">Hongyuan Liu</a>. My current research focuses on GPU-accelerated regular expression matching engines. -->
+
+I have been collaborating with Prof. Hongyuan Liu <a href="https://www.liuhongyuan.com/"> at Stevens Institute of Technology, with a research focus on GPU-accelerated regular expression matching engines.
 
 I received my Master’s degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Professor Guihai Yan</a>. During this period, my work centered on DPU-enabled service mesh design and optimization.
 
@@ -50,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 # Publications
 <ul>
-<li><div class="pubtitle"> arXiv 2024 </div> &nbsp; <a href="../publication/flatproxy.pdf">FlatProxy: A DPU-centric Service Mesh Architecture for Hyperscale Cloud-native Application. </a> <span class="font-bold"> Ming Li </span> Wenyan Lu, Hanyue Lin, Jinya Wu, Guihai Yan. IEEE Transactions on Computers (Under Review). </li>
+<li><div class="pubtitle"> arXiv 2024 </div> &nbsp; <a href="../publication/flatproxy.pdf">FlatProxy: A DPU-centric Service Mesh Architecture for Hyperscale Cloud-native Application. </a> <span class="font-bold"> Ming Li </span> Wenyan Lu, Hanyue Lin, Jinya Wu, Guihai Yan. </li>
 <li><div class="pubtitle"> ICPP 2023 </div> &nbsp; <a href="../publication/bitcolor.pdf">BitColor: Accelerating Large-Scale Graph Coloring on FPGA with Parallel Bit-Wise Engines.</a> Haishuang Fan, <span class="font-bold">Ming Li</span>, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. Proceedings of the 52nd International Conference on Parallel Processing. </li>
 <li> <div class="pubtitle"> Master Thesis 2023 </div> &nbsp; <a href="../publication/master_thesis.pdf">The Architecture Design and Optimization of Service Mesh Based on DPU. 基于DPU的服务网格架构设计与优化.</a></li>
 <li><div class="pubtitle"> White paper 2022</div> &nbsp; <a href="../publication/dpu_benchmark.pdf">DPU Benchmark Methodology and Implementation. 专用数据处理器（DPU）性能基准评测方法与实现.</a> Guihai Yan, Wenyan Lu, Jinya Wu, Hao Kong, Weiyue Zhao, Haishuang Fan, Yunkun Liao, Yujun Zhang, <span class="font-bold">Ming Li</span>, Hanyue LinLiyun Cheng, Shuai Gu, Mingliang Huang, et al. Institute of Computing Technology, Chinese Academy of Sciences. 2022.</li>
