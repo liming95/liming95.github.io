@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021* The Second Prize Winner in Customized Computing Challenge, hosted by CCF, AMD-Xilinx and PeKing University
 
 # Educations and Experience
-- *2025.03 - now*, Incoming PHD Student - Department of Computer Science, Stevens Institute of Technology
+- *2025.03 - now*, Research Intern - Department of Computer Science, Stevens Institute of Technology
 - *2023.07 - 2024.06*, Software Engineer - Cloud-native Fundamental Software Group, YUSUR Technology
 - *2020.09 - 2023.06*, Master - Institute of Computing Technology, Chinese Academy of Sciences
 - *2015.09 - 2017.09*, Compulsory military service
