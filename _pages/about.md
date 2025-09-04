@@ -32,7 +32,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <!-- I am an incoming PhD student at Stevens Institute of Technology, advised by <a href="https://www.liuhongyuan.com/">Hongyuan Liu</a>. My current research focuses on GPU-accelerated regular expression matching engines. -->
 
-I have been collaborating with Prof. Hongyuan Liu <a href="https://www.liuhongyuan.com/"> at Stevens Institute of Technology, with a research focus on GPU-accelerated regular expression matching engines.
+I have been collaborating with  <a href="https://www.liuhongyuan.com/">Prof. Hongyuan Liu</a> at Stevens Institute of Technology, with a research focus on GPU-accelerated regular expression matching engines.
 
 I received my Master’s degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Professor Guihai Yan</a>. During this period, my work centered on DPU-enabled service mesh design and optimization.
 
