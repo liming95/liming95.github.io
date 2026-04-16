@@ -32,13 +32,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <!-- I am an incoming PhD student at Stevens Institute of Technology, advised by <a href="https://www.liuhongyuan.com/">Hongyuan Liu</a>. My current research focuses on GPU-accelerated regular expression matching engines. -->
 
-I have been collaborating with  <a href="https://www.liuhongyuan.com/">Prof. Hongyuan Liu</a> at Stevens Institute of Technology, with a research focus on GPU-accelerated regular expression matching engines.
+I am currently a PhD candidate at the <a href="https://www.hitsz.edu.cn/">Harbin Institute of Technology (Shenzhen)</a>, supervised by <a href="https://shaohuais.github.io/">Prof. Shaohui Shi</a>. My research focuses on RL-based post-training for large models.
 
-I received my Master’s degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Professor Guihai Yan</a>. During this period, my work centered on DPU-enabled service mesh design and optimization.
+Previously, I collaborated with <a href="https://www.liuhongyuan.com/">Prof. Hongyuan Liu</a> at Stevens Institute of Technology on GPU-accelerated regular expression matching.
+
+I received my Master’s degree from the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), under the supervision of <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201310/t20131025_3963079.html">Prof. Guihai Yan</a>. My work during this period focused on DPU-enabled service mesh design and optimization.
 
 Prior to that, I obtained my Bachelor’s degree from the School of Software Engineering at Tianjin University.
 
-My research interests include parallel computing, GPU architecture, and hardware–software co-design in computer architecture.
+My research interests include distributed systems, parallel computing, GPU architecture, and hardware–software co-design in computer architecture.
+
 <a href="../publication/cv.pdf">[CV]</a>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -67,7 +70,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021* The Second Prize Winner in Customized Computing Challenge, hosted by CCF, AMD-Xilinx and PeKing University
 
 # Educations and Experience
-- *2025.03 - now*, Research Intern - Department of Computer Science, Stevens Institute of Technology
+- *2025.12 - now*, PHD candidate - Department of Computer Science, Harbin Institute of Technology (Shenzhen)
+- *2024.11 - 2025.12*, Research Intern - Department of Computer Science, Stevens Institute of Technology
 - *2023.07 - 2024.06*, Software Engineer - Cloud-native Fundamental Software Group, YUSUR Technology
 - *2020.09 - 2023.06*, Master - Institute of Computing Technology, Chinese Academy of Sciences
 - *2015.09 - 2017.09*, Compulsory military service
